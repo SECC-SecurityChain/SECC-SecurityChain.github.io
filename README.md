@@ -1,38 +1,34 @@
 ## Introduction to Security Chain
 
+The World's First Blockchain Security Ecological Chain. Secure Chain is addressing and solving all problems caused by unbalanced security ecosystem to provide a fully decentralized, democratic and secure blockchain-powered internet infrastructure.
 
-You can use the [editor on GitHub](https://github.com/SECC-SecurityChain/SECC-SecurityChain.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+It builds security ecological circle consisting of security elites, top hackers and white hat through Blockchain technology and certification and becomes an indispensable support for major exchanges, wallets, and Blockchain projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introduction Video to Security Chain Ecosystem
 
-### Markdown
+For more details [see](http://secc.io/img/video/about2_en.mp4).
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Security Architecture of Nodes
 
-# Header 1
-## Header 2
-### Header 3
+Nodes are the key building blocks of the Security Chain infrastructure and they host both the security components and the developers’ applications. There are large business and security advantage of removing custom security solutions from the application layer and use instead proven security solutions from the infrastructure layer.
 
-- Bulleted
-- List
+### Community Support and Services
 
-1. Numbered
-2. List
+Security Chain is committed to an open ecosystem and its ability to offer alternatives for security components by building a functional incentive system to create sufficient concentration of community experts for each available security component. It can turn around the asymmetric security benefits towards the the white-hat hackers and the community of expert contributors as well as progressive startup innovators.
 
-**Bold** and _Italic_ and `Code` text
+### Business Potential and Milestone
 
-[Link](url) and ![Image](src)
-```
+Predictability of capital budgeting and business environment to support long term investments and customer adoption; Easy deployment with pre-hardened, flexible configuration; Savings on new or existing security solutions; Ease of development; Reinforced freemium model for security components in an open-source world; Security Chain economy’s ability to generate amortization & contribution margin
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+2017 Started to building Security Chain Tech- team
+Mar, 2018 Completed enterprise wallet solutions
+Jun, 2018 Launched the first security ecosystem project - Security Chain Wallet
+Aug, 2018 Start up the Security node project
+Dec, 2018 Launch the Security community project
+Jan, 2019 Start up the Security public chain project
+Jun, 2019 Release more than 10 projects developed on Security Chain
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SECC-SecurityChain/SECC-SecurityChain.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
